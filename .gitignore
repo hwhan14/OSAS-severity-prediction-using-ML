@@ -2,3 +2,5 @@
 /reports
 /images
 *.DS_Store
+credentials.json
+
